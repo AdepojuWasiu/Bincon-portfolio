@@ -88,11 +88,11 @@ const friends = [
     },
     {
         photo: "/assets/friend-3.jpg",
-        name: 'Olarewaju Sodeeq'
+        name: 'Yusuf Mariam'
     },
     {
         photo: "/assets/friend-4.jpg",
-        name: 'Yusuf Mariam'
+        name: 'Olarewaju Sodeeq'
     },
     {
         photo: "/assets/friend-5.jpg",
